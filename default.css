@@ -1,6 +1,6 @@
 body
 {
-    background-color: #b3d1ff;
+    background-color: #e6f2ff;
 }
 
 #name
@@ -11,13 +11,12 @@ body
 #menulist
 {
    text-align: center; 
-   text-color: #b3ffff;
 }
 ul {
     list-style-type: none;
     margin: 0;
     padding: 10px;
-    background-color: #3385ff;
+    background-color: #80bdff;
 }
 
 li a {
