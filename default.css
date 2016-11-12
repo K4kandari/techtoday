@@ -11,7 +11,7 @@ body
 #menulist
 {
    text-align: center; 
-   color: #b3ffff;
+   text-color: #b3ffff;
 }
 ul {
     list-style-type: none;
