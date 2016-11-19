@@ -16,6 +16,10 @@ body
 {
    text-align: center; 
 }
+#pageheading
+{
+   text-align: center; 
+}
 
 ul {
     list-style-type: none;
