@@ -12,6 +12,11 @@ body
 {
    text-align: center; 
 }
+#newscontent
+{
+   text-align: center; 
+}
+
 ul {
     list-style-type: none;
     margin: 0;
