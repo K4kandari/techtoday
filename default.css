@@ -32,7 +32,12 @@ li a:hover {
     color: white;
     border-bottom: 4px solid #ff3300;
 }
-
+#sessionpics
+{
+ max-width: 100%;
+ border-radius:5px solid blue;
+ max-height: 40%
+}    
 
 
 #menulist
