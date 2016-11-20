@@ -36,6 +36,7 @@ li a:hover {
 {
  position: relative;
  left:10%;
+ right:10%;
  width: 80%;
  height: 30%;
  display: inline-block;
