@@ -34,7 +34,7 @@ li a:hover {
 }
 #sessionpics
 {
- position: absolute;
+ position: relative;
  left:10%;
  width: 80%;
  height: 30%;
