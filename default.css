@@ -15,7 +15,7 @@ ul {
     list-style-type: none;
     margin: 0;
     padding: 14px;
-    background-color:#49b6dd;
+    background-color:#A5DBEE;
 }
 
 li a {
@@ -23,7 +23,7 @@ li a {
     color: #000;
     padding: 9px 18px;
     text-decoration: none;
-    border-bottom: 4px solid #339900;
+    border-bottom: 4px solid #FFC78F;
 }
 
 /* Change the link color on hover */
