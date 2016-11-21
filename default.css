@@ -33,11 +33,6 @@ li a:hover {
     border-bottom: 4px solid #ff3300;
 }
 
-a
-{
-target-name:new;
-target-new:tab;
-}
 #sessionpics
 {
  position: relative;
