@@ -1,8 +1,10 @@
 #head
 {
+
 position:absolute;
 width:90%;
 Height:10%;
+align:center;
 background-color:red;  
 border-radius:10px;
 border:1px solid #000;
