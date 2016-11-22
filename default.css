@@ -13,29 +13,12 @@ body
     border: 6px solid light-blue;
 }
 
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 14px;
-    background-color:##99ff99;
+#menu{
+ height:30%;   
+ text-align="center";
+    
 }
 
-li a {
-    display: block;
-    color: #000;
-    padding: 9px 18px;
-    text-decoration: none;
-    border-radius:6px;
-    border-bottom: 4px solid #f2f2f2;
-}
-
-/* Change the link color on hover */
-li a:hover {
-    background-color:005ce6;
-    color: white;
-    border-bottom: 4px solid #ffc14d;
-}
 
 #sessionpics
 {
