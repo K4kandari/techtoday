@@ -1,25 +1,14 @@
-#head
-{
-
-position:absolute;
-width:90%;
-Height:10%;
-align:center;
-background-color:red;  
-border-radius:10px;
-border:1px solid #000;
-text-align:center;
-font-size: 6%;
-}
 body
 {
     background-color:#f2f2f2;
 }
 
-#name
+h1 #name
 {  
     font-family:Times New Roman;
     text-align: center;
+    border-radius:8px;
+    background-color:green;
     border: 6px solid red;
 }
 
