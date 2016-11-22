@@ -3,7 +3,7 @@ body
     background-color:#f2f2f2;
 }
 
-#name
+h1#name
 {  
     position:fixed;
     top:1%;
