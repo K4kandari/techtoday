@@ -1,6 +1,8 @@
 #head
 {
+
 position:fixed;
+width:device-width;
 background-color:red;  
 border-radius:10px;
 border:1px solid #000;
