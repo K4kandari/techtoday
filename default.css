@@ -5,11 +5,12 @@ body
 
 h1#name
 {  
+    position:fixed;
     font-family:Times New Roman;
     text-align: center;
     border-radius:8px;
-    background-color:green;
-    border: 6px solid red;
+    background-color:light-green;
+    border: 6px solid light-blue;
 }
 
 
