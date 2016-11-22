@@ -1,3 +1,10 @@
+div#head {
+    position:fixed;
+    display:block;
+    background:red;
+    border-radius:5px;
+}
+
 body
 {
     background-color:#f2f2f2;
