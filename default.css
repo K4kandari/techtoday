@@ -13,10 +13,10 @@ body
     border: 6px solid light-blue;
 }
 
-#menu{
- height:30%;   
+#menu{   
  background-color:red;
- text-align="center";
+ text-align:"center";
+ font-size:200%;
     
 }
 
