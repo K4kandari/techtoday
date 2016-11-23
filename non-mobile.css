@@ -1,0 +1,37 @@
+body
+{
+    background-color: lightblue;
+}
+#name{
+color:white;
+text-align:center;
+font-size:6vh;
+}
+nav ul
+{
+background:green;
+overflow:hidden;
+color:white;
+pading:0px;
+text-align:center;
+margin:auto;
+}
+nav ul li
+{
+
+display:inline-block;
+text-decoration:none;
+padding:20px;
+border-right:1px solid lightblue;
+}
+
+nav ul li a:hover
+{
+backgroud-color:blue;
+color:inherit;
+}
+nav ul li a
+{
+text-decoration:none;
+color:inherit;
+}
